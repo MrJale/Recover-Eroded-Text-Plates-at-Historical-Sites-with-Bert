@@ -12,4 +12,4 @@
 #### Project Details:
 1. Compared BERT, ALBERT, DistilBERT, RoBERTa and other BERT-related NLP models on the masked language task
 2. Chosen BERT-large-uncased model to predict 2,000 eroded words on the historical sites with accuracy rate as 40.2%
-3. Combined the clues about the eroded words such as the identified letters with BERT to improve accuracy rate to 73%
+3. Combined the clues about the eroded words such as the identified letters with BERT to improve accuracy rate to 73%.
